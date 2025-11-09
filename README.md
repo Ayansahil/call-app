@@ -17,9 +17,9 @@ This project was created after completing **JavaScript Part 2** from Sheryians C
 
 ## 🎯 Key Learnings
 - DOM manipulation (`createElement`, `appendChild`, `querySelector`)  
-- Event handling and form validation  
-- Data persistence with LocalStorage  
-- Clean code structure and best practices  
+- Event handling and form validation. 
+- Data persistence with LocalStorage. 
+- Clean code structure and best practices.
 
 ## 📸 Demo
 
